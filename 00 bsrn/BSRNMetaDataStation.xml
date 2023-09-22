@@ -1,0 +1,554 @@
+<BSRNDATA>
+	<FirstData stationId ="83" stationShortName="sel" monthMeasurement="4" yearMeasurement="2019" versionData ="1" >
+		<quantityMeasured value = "2"></quantityMeasured>
+		<quantityMeasured value = "3"></quantityMeasured>
+		<quantityMeasured value = "4"></quantityMeasured>
+		<quantityMeasured value = "5"></quantityMeasured>
+		<quantityMeasured value = "21"></quantityMeasured>
+		<quantityMeasured value = "22"></quantityMeasured>
+		<quantityMeasured value = "23"></quantityMeasured>
+		<quantityMeasured value = "131"></quantityMeasured>
+		<quantityMeasured value = "132"></quantityMeasured>
+		<quantityMeasured value = "123"></quantityMeasured>        
+	</FirstData>
+	<SecondData scientistChangedDay = "-1" scientistChangedHour = "-1"  scientistChangedMin = "-1" 
+                nameStationScientist = "Dr. Roberto Bonifaz" telephoneStationScientist = "525519971713" faxStationScientist = "525556224140"
+                tcpIpStationScientis = "XXX" emailStationScientis = "bonifaz@unam.mx" addresStationScientist = "Avenida Universidad 3000 Mexico CDMX"
+		deputyChangedDay = "-1" deputyChangedHour = "-1" deputyChangedMin = "-1" 
+                nameStationDeputy = "Adriana Elizabeth Gonzalez Cabrera" telephoneStationDeputy = "525556224139" faxStationDeputy = "525556224140"
+                tcpIpStationDeputy = "XXX" emailStationDeputy = "gonzalezc@igeofisica.unam.mx" addresStationDeputy = "Avenida Universidad 3000 Mexico CDMX">
+	</SecondData>
+	<ThirdData>
+		<Line value="@LR4000CONST,140084,83004,CAL_20141112_KZ_CGR4_140084_83004,6.87,ND,ND,1.0,ND,ND"></Line>
+		<Line value="@LR4000CONST,140062,83007,CAL_20140905_KZ_CGR4_140062_83007,14.75,ND,ND,1.0,ND,ND"></Line>
+	</ThirdData>
+	<FourData stationDescriptionChangedDay = "-1" stationDescriptionChangedHour = "-1" stationDescriptionChangedMin = "-1"
+		surfaceType = "15" topographyType = "2" 
+                addressStation = "Frontera Comalapa, Chiapas " telephoneStation = "XXX" faxStation = "XXX" tcpIpStation = "XXX" emailStation = "XXX"
+                latitude = "105.784" longitude = "88.010" altitude = "606" identificationSYNOP = "XXXXX"
+		horizonChangedDay = "-1" horizonChangedHour = "-1" horizonChangedMin = "-1" >
+        <Grade azimuthDegress = "0" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "1" elevationDegress = "5.3297" ></Grade>
+        <Grade azimuthDegress = "2" elevationDegress = "5.513" ></Grade>
+		<Grade azimuthDegress = "3" elevationDegress = "5.4711" ></Grade>
+		<Grade azimuthDegress = "4" elevationDegress = "5.2502" ></Grade>
+		<Grade azimuthDegress = "5" elevationDegress = "4.9958" ></Grade>
+		<Grade azimuthDegress = "6" elevationDegress = "5.5811" ></Grade>
+		<Grade azimuthDegress = "7" elevationDegress = "5.6666" ></Grade>
+		<Grade azimuthDegress = "8" elevationDegress = "5.5208" ></Grade>
+		<Grade azimuthDegress = "9" elevationDegress = "6.0655" ></Grade>
+		<Grade azimuthDegress = "10" elevationDegress = "5.7919" ></Grade>
+		<Grade azimuthDegress = "11" elevationDegress = "5.4572" ></Grade>
+        <Grade azimuthDegress = "12" elevationDegress = "5.8597" ></Grade>
+		<Grade azimuthDegress = "13" elevationDegress = "5.775" ></Grade>
+		<Grade azimuthDegress = "14" elevationDegress = "6.0166" ></Grade>
+		<Grade azimuthDegress = "15" elevationDegress = "5.6408" ></Grade>
+		<Grade azimuthDegress = "16" elevationDegress = "5.6458" ></Grade>
+		<Grade azimuthDegress = "17" elevationDegress = "5.5786" ></Grade>
+		<Grade azimuthDegress = "18" elevationDegress = "5.6816" ></Grade>
+		<Grade azimuthDegress = "19" elevationDegress = "5.468" ></Grade>
+		<Grade azimuthDegress = "20" elevationDegress = "5.6561" ></Grade>
+		<Grade azimuthDegress = "21" elevationDegress = "4.7936" ></Grade>
+        <Grade azimuthDegress = "22" elevationDegress = "5.0727" ></Grade>
+		<Grade azimuthDegress = "23" elevationDegress = "5.1075" ></Grade>
+		<Grade azimuthDegress = "24" elevationDegress = "4.8738" ></Grade>
+		<Grade azimuthDegress = "25" elevationDegress = "4.6705" ></Grade>
+		<Grade azimuthDegress = "26" elevationDegress = "4.6922" ></Grade>
+		<Grade azimuthDegress = "27" elevationDegress = "4.0766" ></Grade>
+		<Grade azimuthDegress = "28" elevationDegress = "2.6572" ></Grade>
+		<Grade azimuthDegress = "29" elevationDegress = "2.2986" ></Grade>
+		<Grade azimuthDegress = "30" elevationDegress = "2.2816" ></Grade>
+		<Grade azimuthDegress = "31" elevationDegress = "2.4886" ></Grade>
+        <Grade azimuthDegress = "32" elevationDegress = "2.3036" ></Grade>
+		<Grade azimuthDegress = "33" elevationDegress = "4.4494" ></Grade>
+		<Grade azimuthDegress = "34" elevationDegress = "4.3983" ></Grade>
+		<Grade azimuthDegress = "35" elevationDegress = "5.018" ></Grade>
+		<Grade azimuthDegress = "36" elevationDegress = "5.5372" ></Grade>
+		<Grade azimuthDegress = "37" elevationDegress = "5.3408" ></Grade>
+		<Grade azimuthDegress = "38" elevationDegress = "5.2477" ></Grade>
+		<Grade azimuthDegress = "39" elevationDegress = "5.3094" ></Grade>
+		<Grade azimuthDegress = "40" elevationDegress = "6.068" ></Grade>
+		<Grade azimuthDegress = "41" elevationDegress = "6.0597" ></Grade>
+        <Grade azimuthDegress = "42" elevationDegress = "5.455" ></Grade>
+		<Grade azimuthDegress = "43" elevationDegress = "4.3963" ></Grade>
+		<Grade azimuthDegress = "44" elevationDegress = "3.8963" ></Grade>
+		<Grade azimuthDegress = "45" elevationDegress = "3.8669" ></Grade>
+		<Grade azimuthDegress = "46" elevationDegress = "3.1675" ></Grade>
+		<Grade azimuthDegress = "47" elevationDegress = "2.1602" ></Grade>
+		<Grade azimuthDegress = "48" elevationDegress = "2.2227" ></Grade>
+		<Grade azimuthDegress = "49" elevationDegress = "2.0041" ></Grade>
+		<Grade azimuthDegress = "50" elevationDegress = "2.2044" ></Grade>
+		<Grade azimuthDegress = "51" elevationDegress = "2.6577" ></Grade>
+        <Grade azimuthDegress = "52" elevationDegress = "2.2188" ></Grade>
+		<Grade azimuthDegress = "53" elevationDegress = "1.9166" ></Grade>
+		<Grade azimuthDegress = "54" elevationDegress = "1.9036" ></Grade>
+		<Grade azimuthDegress = "55" elevationDegress = "2.5908" ></Grade>
+		<Grade azimuthDegress = "56" elevationDegress = "3.0972" ></Grade>
+		<Grade azimuthDegress = "57" elevationDegress = "3.7075" ></Grade>
+		<Grade azimuthDegress = "58" elevationDegress = "3.7738" ></Grade>
+		<Grade azimuthDegress = "59" elevationDegress = "3.7333" ></Grade>
+		<Grade azimuthDegress = "60" elevationDegress = "3.6147" ></Grade>
+		<Grade azimuthDegress = "61" elevationDegress = "3.5158" ></Grade>
+        <Grade azimuthDegress = "62" elevationDegress = "2.7769" ></Grade>
+		<Grade azimuthDegress = "63" elevationDegress = "5.5522" ></Grade>
+		<Grade azimuthDegress = "64" elevationDegress = "2.8972" ></Grade>
+		<Grade azimuthDegress = "65" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "66" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "67" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "68" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "69" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "60" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "61" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "62" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "63" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "64" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "65" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "66" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "67" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "68" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "69" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "70" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "71" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "72" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "73" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "74" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "75" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "76" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "77" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "78" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "79" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "80" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "81" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "82" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "83" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "84" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "85" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "86" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "87" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "88" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "89" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "90" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "91" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "92" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "93" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "94" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "95" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "96" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "97" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "98" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "99" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "100" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "101" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "102" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "103" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "104" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "105" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "106" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "107" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "108" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "109" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "110" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "111" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "112" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "113" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "114" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "115" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "116" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "117" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "118" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "119" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "120" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "121" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "122" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "123" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "124" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "125" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "126" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "127" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "128" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "129" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "130" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "131" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "132" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "133" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "134" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "135" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "136" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "137" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "138" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "139" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "130" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "131" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "132" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "133" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "134" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "135" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "136" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "137" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "138" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "139" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "140" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "141" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "142" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "143" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "144" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "145" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "146" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "147" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "148" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "149" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "150" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "151" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "152" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "153" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "154" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "155" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "156" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "157" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "158" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "159" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "160" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "161" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "162" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "163" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "164" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "165" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "166" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "167" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "168" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "169" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "160" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "161" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "162" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "163" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "164" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "165" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "166" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "167" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "168" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "169" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "170" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "171" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "172" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "173" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "174" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "175" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "176" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "177" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "178" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "179" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "180" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "181" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "182" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "183" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "184" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "185" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "186" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "187" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "188" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "189" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "190" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "191" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "192" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "193" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "194" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "195" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "196" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "197" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "198" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "199" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "200" elevationDegress = "5.4733" ></Grade><Grade azimuthDegress = "1" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "201" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "202" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "203" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "204" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "205" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "206" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "207" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "208" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "209" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "210" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "211" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "212" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "213" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "214" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "215" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "216" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "217" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "218" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "219" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "220" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "221" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "222" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "223" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "224" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "225" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "226" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "227" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "228" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "229" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "230" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "231" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "232" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "233" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "234" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "235" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "236" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "237" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "238" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "239" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "230" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "231" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "232" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "233" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "234" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "235" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "236" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "237" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "238" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "239" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "240" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "241" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "242" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "243" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "244" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "245" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "246" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "247" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "248" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "249" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "250" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "251" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "252" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "253" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "254" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "255" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "256" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "257" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "258" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "259" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "260" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "261" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "262" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "263" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "264" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "265" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "266" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "267" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "268" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "269" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "260" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "261" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "262" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "263" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "264" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "265" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "266" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "267" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "268" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "269" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "270" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "271" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "272" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "273" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "274" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "275" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "276" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "277" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "278" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "279" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "280" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "281" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "282" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "283" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "284" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "285" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "286" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "287" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "288" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "289" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "290" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "291" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "292" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "293" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "294" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "295" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "296" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "297" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "298" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "299" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "300" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "301" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "302" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "303" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "304" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "305" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "306" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "307" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "308" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "309" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "310" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "311" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "312" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "313" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "314" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "315" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "316" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "317" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "318" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "319" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "320" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "321" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "322" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "323" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "324" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "325" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "326" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "327" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "328" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "329" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "330" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "331" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "332" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "333" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "334" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "335" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "336" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "337" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "338" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "339" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "330" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "331" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "332" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "333" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "334" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "335" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "336" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "337" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "338" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "339" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "340" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "341" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "342" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "343" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "344" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "345" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "346" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "347" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "348" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "349" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "350" elevationDegress = "5.4733" ></Grade>
+		<Grade azimuthDegress = "351" elevationDegress = "1" ></Grade>
+        <Grade azimuthDegress = "352" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "353" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "354" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "355" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "356" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "357" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "358" elevationDegress = "1" ></Grade>
+		<Grade azimuthDegress = "359" elevationDegress = "1" ></Grade>
+	</FourData>
+	<SevenData changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" 
+	methodEstCloundAmount = "XXX" methodEstCloundBaseHeight = "XXX" methodEstCloundLiquidWater = "XXX" methodEstCloundAerosolVerticalDis = "XXX" methodEstWaterVapourPress = "XXX" >
+		<flagsIndicatingIfTheSYNOP>
+			<flag value = "0"></flag>
+			<flag value = "0"></flag>
+			<flag value = "0"></flag>
+			<flag value = "0"></flag>
+			<flag value = "0"></flag>
+			<flag value = "0"></flag>
+		</flagsIndicatingIfTheSYNOP>
+	</SevenData>
+	<EightData>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" 
+			isInstrumenMeasuring = "1" manufacturer = "KIPP &amp; ZONEN" model = "CMP22" serialNumber = "160486" dateOfPurchase = "08/24/17" identificactionNumber = "83001"
+			remarksAboutTheRadiation = "XXX" remarksOnCalibrationEgUnitsOfCal = "microV/W^-2" remarksOnCalibrationContinued = "XXX"
+			pyrgeometerBodyCompensationCode = "-1" pyrgeometerDomeCompensationCode = "-1" 
+			wavelengthOfBand1 = "-1.000" bandWidthOfBand1 = "-1.000" wavelengthOfBand2 = "-1.000" bandWidthOfBand2 = "-1.000" wavelengthOfBand3 = "-1.000" bandWidthOfBand3 = "-1.000"
+			maxZenithAngle = "-1" minSpectralInstrument = "-1"
+			locationOfCalibration = "Selegua" personDoingCalibration = "RBA, AEGC"
+                        startOfCalibrationPeriodBand1 = "11/29/19" endOfCalibrationBand1 = "12/03/19" numberOfComparisonsBand1 = "12" meanCalibrationCoeficientBand1 = "8.34" standardErrorOfCalCoeffBanda1 = "0.07"
+			startOfCalibrationPeriodBand2 = "XXX" endOfCalibrationBand2 = "XXX" numberOfComparisonsBand2 = "-1" meanCalibrationCoeficientBand2 = "-1.000" standardErrorOfCalCoeffBanda2 = "-1.000" 
+			startOfCalibrationPeriodBand3 = "XXX" endOfCalibrationBand3 = "XXX" numberOfComparisonsBand3 = "-1" meanCalibrationCoeficientBand3 = "-1.000" standardErrorOfCalCoeffBanda3 = "-1.000" >
+		</instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1"
+			isInstrumenMeasuring = "1" manufacturer = "KIPP &amp; ZONEN" model = "CHP1" serialNumber = "140189" dateOfPurchase = "10/30/14" identificactionNumber = "83002"
+			remarksAboutTheRadiation = "XXX" remarksOnCalibrationEgUnitsOfCal = "microV/W^-2" remarksOnCalibrationContinued = "XXX"
+			pyrgeometerBodyCompensationCode = "-1" pyrgeometerDomeCompensationCode = "-1"
+			wavelengthOfBand1 = "-1.000" bandWidthOfBand1 = "-1.000" wavelengthOfBand2 = "-1.000" bandWidthOfBand2 = "-1.000" wavelengthOfBand3 = "-1.000" bandWidthOfBand3 = "-1.000"
+			maxZenithAngle = "-1" minSpectralInstrument = "-1"
+			locationOfCalibration = "Selegua" personDoingCalibration = "RBA, AEGC"
+                        startOfCalibrationPeriodBand1 = "02/03/20" endOfCalibrationBand1 = "02/07/20" numberOfComparisonsBand1 = "37" meanCalibrationCoeficientBand1 = "7.44" standardErrorOfCalCoeffBanda1 = "0.036"
+			startOfCalibrationPeriodBand2 = "XXX" endOfCalibrationBand2 = "XXX" numberOfComparisonsBand2 = "-1" meanCalibrationCoeficientBand2 = "-1.000" standardErrorOfCalCoeffBanda2 = "-1.000"
+			startOfCalibrationPeriodBand3 = "XXX" endOfCalibrationBand3 = "XXX" numberOfComparisonsBand3 = "-1" meanCalibrationCoeficientBand3 = "-1.000" standardErrorOfCalCoeffBanda3 = "-1.000" >
+		</instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1"
+			isInstrumenMeasuring = "1" manufacturer = "KIPP &amp; ZONEN" model = "CMP22" serialNumber = "160484" dateOfPurchase = "08/24/17" identificactionNumber = "83003"
+			remarksAboutTheRadiation = "XXX" remarksOnCalibrationEgUnitsOfCal = "microV/W^-2" remarksOnCalibrationContinued = "XXX"
+			pyrgeometerBodyCompensationCode = "-1" pyrgeometerDomeCompensationCode = "-1"
+			wavelengthOfBand1 = "-1.000" bandWidthOfBand1 = "-1.000" wavelengthOfBand2 = "-1.000" bandWidthOfBand2 = "-1.000" wavelengthOfBand3 = "-1.000" bandWidthOfBand3 = "-1.000"
+			maxZenithAngle = "-1" minSpectralInstrument = "-1"
+			locationOfCalibration = "Selegua" personDoingCalibration = "RBA, AEGC"
+                        startOfCalibrationPeriodBand1 = "11/29/19" endOfCalibrationBand1 = "12/03/19" numberOfComparisonsBand1 = "12" meanCalibrationCoeficientBand1 = "9.72" standardErrorOfCalCoeffBanda1 = "0.1"
+			startOfCalibrationPeriodBand2 = "XXX" endOfCalibrationBand2 = "XXX" numberOfComparisonsBand2 = "-1" meanCalibrationCoeficientBand2 = "-1.000" standardErrorOfCalCoeffBanda2 = "-1.000"
+			startOfCalibrationPeriodBand3 = "XXX" endOfCalibrationBand3 = "XXX" numberOfComparisonsBand3 = "-1" meanCalibrationCoeficientBand3 = "-1.000" standardErrorOfCalCoeffBanda3 = "-1.000" >
+		</instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1"
+			isInstrumenMeasuring = "1" manufacturer = "KIPP &amp; ZONEN" model = "CGR4" serialNumber = "140084" dateOfPurchase = "11/12/14" identificactionNumber = "83004"
+			remarksAboutTheRadiation = "XXX" remarksOnCalibrationEgUnitsOfCal = "microV/W^-2" remarksOnCalibrationContinued = "XXX"
+			pyrgeometerBodyCompensationCode = "3" pyrgeometerDomeCompensationCode = "7"
+			wavelengthOfBand1 = "-1.000" bandWidthOfBand1 = "4.5" wavelengthOfBand2 = "-1.000" bandWidthOfBand2 = "-1.000" wavelengthOfBand3 = "-1.000" bandWidthOfBand3 = "-1.000"
+			maxZenithAngle = "-1" minSpectralInstrument = "-1"
+			locationOfCalibration = "Manufacturer" personDoingCalibration = "Manufacturer"
+			startOfCalibrationPeriodBand1 = "11/12/14" endOfCalibrationBand1 = "XXX" numberOfComparisonsBand1 = "-1" meanCalibrationCoeficientBand1 = "6.87" standardErrorOfCalCoeffBanda1 = "-1.000"
+			startOfCalibrationPeriodBand2 = "XXX" endOfCalibrationBand2 = "XXX" numberOfComparisonsBand2 = "-1" meanCalibrationCoeficientBand2 = "-1.000" standardErrorOfCalCoeffBanda2 = "-1.000"
+			startOfCalibrationPeriodBand3 = "XXX" endOfCalibrationBand3 = "XXX" numberOfComparisonsBand3 = "-1" meanCalibrationCoeficientBand3 = "-1.000" standardErrorOfCalCoeffBanda3 = "-1.000" >
+		</instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1"
+			isInstrumenMeasuring = "1" manufacturer = "KIPP &amp; ZONEN" model = "CMP22" serialNumber = "160485" dateOfPurchase = "24/08/17" identificactionNumber = "83005"
+			remarksAboutTheRadiation = "XXX" remarksOnCalibrationEgUnitsOfCal = "microV/W^-2" remarksOnCalibrationContinued = "XXX"
+			pyrgeometerBodyCompensationCode = "-1" pyrgeometerDomeCompensationCode = "-1"
+			wavelengthOfBand1 = "-1.000" bandWidthOfBand1 = "-1.000" wavelengthOfBand2 = "-1.000" bandWidthOfBand2 = "-1.000" wavelengthOfBand3 = "-1.000" bandWidthOfBand3 = "-1.000"
+			maxZenithAngle = "-1" minSpectralInstrument = "-1"
+			locationOfCalibration = "Selegua" personDoingCalibration = "Manufacturer"
+			startOfCalibrationPeriodBand1 = "XXX" endOfCalibrationBand1 = "XXX" numberOfComparisonsBand1 = "-1" meanCalibrationCoeficientBand1 = "9.74" standardErrorOfCalCoeffBanda1 = "-1.000"
+			startOfCalibrationPeriodBand2 = "XXX" endOfCalibrationBand2 = "XXX" numberOfComparisonsBand2 = "-1" meanCalibrationCoeficientBand2 = "-1.000" standardErrorOfCalCoeffBanda2 = "-1.000"
+			startOfCalibrationPeriodBand3 = "XXX" endOfCalibrationBand3 = "XXX" numberOfComparisonsBand3 = "-1" meanCalibrationCoeficientBand3 = "-1.000" standardErrorOfCalCoeffBanda3 = "-1.000" >
+		</instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1"
+			isInstrumenMeasuring = "1" manufacturer = "KIPP &amp; ZONEN" model = "CGR4" serialNumber = "140062" dateOfPurchase = "09/05/14" identificactionNumber = "83006"
+			remarksAboutTheRadiation = "XXX" remarksOnCalibrationEgUnitsOfCal = "microV/W^-2" remarksOnCalibrationContinued = "XXX"
+			pyrgeometerBodyCompensationCode = "3" pyrgeometerDomeCompensationCode = "7"
+			wavelengthOfBand1 = "-1.000" bandWidthOfBand1 = "4.5" wavelengthOfBand2 = "-1.000" bandWidthOfBand2 = "-1.000" wavelengthOfBand3 = "-1.000" bandWidthOfBand3 = "-1.000"
+			maxZenithAngle = "-1" minSpectralInstrument = "-1"
+			locationOfCalibration = "Manufacturer" personDoingCalibration = "Manufacturer"
+			startOfCalibrationPeriodBand1 = "09/05/14" endOfCalibrationBand1 = "XXX" numberOfComparisonsBand1 = "-1" meanCalibrationCoeficientBand1 = "14.75" standardErrorOfCalCoeffBanda1 = "-1.000"
+			startOfCalibrationPeriodBand2 = "XXX" endOfCalibrationBand2 = "XXX" numberOfComparisonsBand2 = "-1" meanCalibrationCoeficientBand2 = "-1.000" standardErrorOfCalCoeffBanda2 = "-1.000"
+			startOfCalibrationPeriodBand3 = "XXX" endOfCalibrationBand3 = "XXX" numberOfComparisonsBand3 = "-1" meanCalibrationCoeficientBand3 = "-1.000" standardErrorOfCalCoeffBanda3 = "-1.000" >
+		</instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1"
+			isInstrumenMeasuring = "1" manufacturer = "Solar Light" model = "501A" serialNumber = "19489" dateOfPurchase = "02/02/16" identificactionNumber = "83007"
+			remarksAboutTheRadiation = "XXX" remarksOnCalibrationEgUnitsOfCal = "V/(MED/h)" remarksOnCalibrationContinued = "XXX"
+			pyrgeometerBodyCompensationCode = "-1" pyrgeometerDomeCompensationCode = "-1"
+			wavelengthOfBand1 = "-1.000" bandWidthOfBand1 = "-1.000" wavelengthOfBand2 = "-1.000" bandWidthOfBand2 = "-1.000" wavelengthOfBand3 = "-1.000" bandWidthOfBand3 = "-1.000"
+			maxZenithAngle = "-1" minSpectralInstrument = "-1"
+			locationOfCalibration = "Manufacturer" personDoingCalibration = "Manufacturer"
+			startOfCalibrationPeriodBand1 = "02/02/16" endOfCalibrationBand1 = "XXX" numberOfComparisonsBand1 = "-1" meanCalibrationCoeficientBand1 = "0.25" standardErrorOfCalCoeffBanda1 = "-1.000"
+			startOfCalibrationPeriodBand2 = "XXX" endOfCalibrationBand2 = "XXX" numberOfComparisonsBand2 = "-1" meanCalibrationCoeficientBand2 = "-1.000" standardErrorOfCalCoeffBanda2 = "-1.000"
+			startOfCalibrationPeriodBand3 = "XXX" endOfCalibrationBand3 = "XXX" numberOfComparisonsBand3 = "-1" meanCalibrationCoeficientBand3 = "-1.000" standardErrorOfCalCoeffBanda3 = "-1.000" >
+		</instrument>
+
+	</EightData>
+	<NineData>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "2" idNoOfInstrumentWhichMeasuedQuality = "83001" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "3" idNoOfInstrumentWhichMeasuedQuality = "83002" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "4" idNoOfInstrumentWhichMeasuedQuality = "83003" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "5" idNoOfInstrumentWhichMeasuedQuality = "83004" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "21" idNoOfInstrumentWhichMeasuedQuality = "83005" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "22" idNoOfInstrumentWhichMeasuedQuality = "83006" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "23" idNoOfInstrumentWhichMeasuedQuality = "83007" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "131" idNoOfInstrumentWhichMeasuedQuality = "83007" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "132" idNoOfInstrumentWhichMeasuedQuality = "83007" noOfBandForSpectralInstruments = "-1"></instrument>
+		<instrument changedOcurredDay = "-1" changedOcurredHour = "-1" changedOcurredMin = "-1" idNoOfRadiationQualityMeasured = "123" idNoOfInstrumentWhichMeasuedQuality = "83007" noOfBandForSpectralInstruments = "-1"></instrument>
+	</NineData>
+</BSRNDATA>
